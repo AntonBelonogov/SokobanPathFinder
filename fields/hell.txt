@@ -1,0 +1,14 @@
+################
+#..#######XX####
+#.O.O.O..#XXXX##
+#.O...OO.#GGGX##
+#.O.O.O..#XXGX##
+#..O.O.O.#GXGX##
+##.O.O.O.XGXGX##
+#..O.O.O.XGXGX@#
+#..O.O.O.#GXGX##
+#.O.O.O..#XXGX##
+#.O...OO.#GGGX##
+#.O.O.O..#XXXX##
+#..#######XX####
+################

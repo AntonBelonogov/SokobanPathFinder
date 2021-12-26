@@ -1,0 +1,13 @@
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.exe
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.deps.json
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.runtimeconfig.json
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.runtimeconfig.dev.json
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.dll
+F:\rider_projects\sokoban\Sokoban\bin\Release\netcoreapp3.1\Sokoban.pdb
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.csproj.AssemblyReference.cache
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.AssemblyInfoInputs.cache
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.AssemblyInfo.cs
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.csproj.CoreCompileInputs.cache
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.dll
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.pdb
+F:\rider_projects\sokoban\Sokoban\obj\Release\netcoreapp3.1\Sokoban.genruntimeconfig.cache

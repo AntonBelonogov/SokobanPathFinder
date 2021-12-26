@@ -1,0 +1,13 @@
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.exe
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.deps.json
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.runtimeconfig.json
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.runtimeconfig.dev.json
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.dll
+C:\Users\russi\Desktop\sokoban\Sokoban\bin\Debug\netcoreapp3.1\Sokoban.pdb
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.csproj.AssemblyReference.cache
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.AssemblyInfoInputs.cache
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.AssemblyInfo.cs
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.csproj.CoreCompileInputs.cache
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.dll
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.pdb
+C:\Users\russi\Desktop\sokoban\Sokoban\obj\Debug\netcoreapp3.1\Sokoban.genruntimeconfig.cache
